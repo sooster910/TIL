@@ -1,17 +1,15 @@
-# TIL
+# 곱하기 혹은 더하기
 
-## Getting Super Powers
+## 문제 설명 
 
-Gitbook repo for TIL
 
-Becoming a super hero is a fairly straight forward process:
 
 ```
 $ give me super-powers
 ```
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ 
 {% endhint %}
 
 Once you're strong enough, save the world:
