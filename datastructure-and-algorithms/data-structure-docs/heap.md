@@ -19,7 +19,8 @@
     
 - 이 중, heap은 너비우선탐색인 Level order traversal 을 이용한다.
 
-
+![heap1](../../.gitbook/assets/heap1.png)
+![level-order-traversal](../../.gitbook/assets/level-order-traversal.png)
 
 ### 이진힙의 종류 
 - 최소힙
