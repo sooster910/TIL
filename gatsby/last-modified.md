@@ -34,7 +34,7 @@ query MyQuery {
 
 이런 내 접근이 올바르지 않다는것을 gatsby에서 알려주었다.  
 
-![](../.gitbook/assets/screen-shot-2021-10-03-at-11.06.54-am.png)
+![](../.gitbook/assets/heap1.png)
 
 공식문서에서  참고하자면 
 
